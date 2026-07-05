@@ -7,8 +7,7 @@ BDFetch 清理大师 | 全方位 Windows 垃圾清理工具，覆盖更多缓存
 3. 轻量化低占用，针对性解决C盘爆红、磁盘空间不足问题
 
 ## 下载渠道
-1. 官方网站（推荐）：https://bdfetch.66ghz.com/ql/
-2. GitHub Releases：仓库右侧 Releases 板块获取完整安装包
+官方网站（推荐）：https://bdfetch.66ghz.com/ql/
 
 ## 用户交流
 BDFetch清理大师交流QQ群：1020650438
